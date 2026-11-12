@@ -1,0 +1,62 @@
+{
+  "cp1": {
+    "access": "test",
+    "validation": "étoile"
+  },
+  "cp2": {
+    "access": "banane",
+    "validation": "carré"
+  },
+  "cp3": {
+    "access": "cerise",
+    "validation": "triangle"
+  },
+  "cp4": {
+    "access": "poire",
+    "validation": "rectangle"
+  },
+  "cp5": {
+    "access": "raisin",
+    "validation": "cercle"
+  },
+  "ce21": {
+    "access": "test",
+    "validation": "étoile"
+  },
+  "ce22": {
+    "access": "banane",
+    "validation": "carré"
+  },
+  "ce23": {
+    "access": "cerise",
+    "validation": "triangle"
+  },
+  "ce24": {
+    "access": "poire",
+    "validation": "rectangle"
+  },
+  "ce25": {
+    "access": "raisin",
+    "validation": "cercle"
+  },
+  "cm1": {
+    "access": "test",
+    "validation": "étoile"
+  },
+  "cm2": {
+    "access": "banane",
+    "validation": "carré"
+  },
+  "cm3": {
+    "access": "cerise",
+    "validation": "triangle"
+  },
+  "cm4": {
+    "access": "poire",
+    "validation": "rectangle"
+  },
+  "cm5": {
+    "access": "raisin",
+    "validation": "cercle"
+  }
+}
