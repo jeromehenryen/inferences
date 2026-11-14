@@ -1,0 +1,512 @@
+[
+ {
+  "id": "cp1",
+  "level": "cpce1",
+  "title": "Défi enseignant test",
+  "type": "Lieu",
+  "text": "Lina entre dans la pièce. Elle pose son sac près du canapé. Son petit frère regarde les dessins animés. Dehors, la pluie frappe les vitres.",
+  "questions": [
+   {
+    "question": "Où se trouve Lina ?",
+    "answers": [
+     "salon",
+     "dans le salon",
+     "la salle de séjour"
+    ],
+    "clues": [
+     [
+      "canapé",
+      "dessins animés"
+     ]
+    ],
+    "hints": [
+     "Relis les phrases qui décrivent ce qu’il y a dans la pièce.",
+     "Cherche le meuble et l’activité du petit frère.",
+     "Un canapé et la télévision se trouvent souvent dans la même pièce."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cp2",
+  "level": "cpce1",
+  "title": "Défi élèves semaine 1",
+  "type": "Agent",
+  "text": "Milo entend un miaulement derrière la porte. Il ouvre doucement. Un animal gris entre, se frotte contre ses jambes et fait ronronner sa gorge.",
+  "questions": [
+   {
+    "question": "Quel animal vient rendre visite à Milo ?",
+    "answers": [
+     "chat",
+     "un chat",
+     "le chat",
+     "chat gris"
+    ],
+    "clues": [
+     [
+      "miaulement",
+      "ronronner"
+     ],
+     [
+      "se frotte contre ses jambes",
+      "ronronner"
+     ]
+    ],
+    "hints": [
+     "Repère les bruits et les gestes de l’animal.",
+     "Deux indices permettent de reconnaître cet animal.",
+     "Il miaule et ronronne : pense à un animal domestique."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cp3",
+  "level": "cpce1",
+  "title": "Défi élèves semaine 2",
+  "type": "Temps",
+  "text": "Noé rentre de l’école. Il enlève son manteau, pose son cartable et se lave les mains. Puis il s’installe à la table où sa maman a préparé du pain et des fruits.",
+  "questions": [
+   {
+    "question": "À quel moment de la journée se passe la scène ?",
+    "answers": [
+     "après-midi",
+     "dans l’après-midi",
+     "après l’école",
+     "fin d’après-midi"
+    ],
+    "clues": [
+     [
+      "rentre de l’école",
+      "cartable"
+     ],
+     [
+      "pain et des fruits",
+      "se lave les mains"
+     ]
+    ],
+    "hints": [
+     "Observe ce que Noé vient de faire.",
+     "Il revient de l’école et va manger quelque chose.",
+     "Il s’agit du moment où l’on prend une petite collation après l’école."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cp4",
+  "level": "cpce1",
+  "title": "Défi élèves semaine 3",
+  "type": "Action",
+  "text": "Tom regarde ses chaussures couvertes de boue. Il prend un chiffon, s’accroupit près de la porte et frotte les semelles jusqu’à ce qu’elles soient propres.",
+  "questions": [
+   {
+    "question": "Que fait Tom ?",
+    "answers": [
+     "il nettoie ses chaussures",
+     "il nettoie ses semelles",
+     "il enlève la boue de ses chaussures",
+     "il frotte ses chaussures"
+    ],
+    "clues": [
+     [
+      "chiffon",
+      "frotte les semelles"
+     ],
+     [
+      "couvertes de boue",
+      "jusqu’à ce qu’elles soient propres"
+     ]
+    ],
+    "hints": [
+     "Regarde ce que Tom utilise et ce qu’il frotte.",
+     "Le chiffon sert à enlever quelque chose.",
+     "Tom enlève la saleté de ses chaussures."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cp5",
+  "level": "cpce1",
+  "title": "Défi élèves semaine 4",
+  "type": "Objet",
+  "text": "Dans la cuisine, Inès prend un récipient transparent. Elle y verse de l’eau, ajoute quelques glaçons et le pose sur la table. Son père se sert ensuite pour boire.",
+  "questions": [
+   {
+    "question": "Quel objet Inès a-t-elle probablement utilisé ?",
+    "answers": [
+     "un verre",
+     "un gobelet",
+     "un récipient pour boire",
+     "un verre transparent"
+    ],
+    "clues": [
+     [
+      "verse de l’eau",
+      "glaçons"
+     ],
+     [
+      "son père se sert",
+      "pour boire"
+     ]
+    ],
+    "hints": [
+     "Cherche à quoi sert le récipient.",
+     "Il contient de l’eau et permet à quelqu’un de boire.",
+     "L’objet attendu est un contenant individuel pour boire."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ce21",
+  "level": "ce2",
+  "title": "Défi enseignant test",
+  "type": "Cause – effet",
+  "text": "À peine arrivé dans la cour, Yanis ouvre son parapluie. Il court vers le préau en évitant les grandes flaques. Quelques minutes plus tard, ses cheveux et ses manches sont trempés.",
+  "questions": [
+   {
+    "question": "Quel événement explique que Yanis soit trempé ?",
+    "answers": [
+     "il pleut",
+     "la pluie",
+     "une averse",
+     "il a plu"
+    ],
+    "clues": [
+     [
+      "ouvre son parapluie",
+      "grandes flaques"
+     ],
+     [
+      "court vers le préau",
+      "trempés"
+     ]
+    ],
+    "hints": [
+     "Relie le parapluie, les flaques et les vêtements mouillés.",
+     "Quel phénomène oblige à ouvrir un parapluie ?",
+     "C’est l’eau qui tombe du ciel."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ce22",
+  "level": "ce2",
+  "title": "Défi élèves semaine 1",
+  "type": "Instrument",
+  "text": "Pour atteindre les branches les plus hautes du pommier, Mme Lopez déplie un objet à plusieurs marches. Elle le pose bien à plat, monte prudemment et coupe quelques pommes mûres.",
+  "questions": [
+   {
+    "question": "Quel objet utilise Mme Lopez ?",
+    "answers": [
+     "une échelle",
+     "un escabeau",
+     "une échelle ou un escabeau"
+    ],
+    "clues": [
+     [
+      "plusieurs marches",
+      "monte prudemment"
+     ],
+     [
+      "branches les plus hautes",
+      "coupe quelques pommes"
+     ]
+    ],
+    "hints": [
+     "Repère ce qui permet de monter.",
+     "L’objet possède plusieurs marches.",
+     "On grimpe dessus pour atteindre un endroit en hauteur."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ce23",
+  "level": "ce2",
+  "title": "Défi élèves semaine 2",
+  "type": "Catégorie",
+  "text": "Sur la table, il y a des tulipes, des roses et des jonquilles. Mamie les rassemble dans un vase avec un peu d’eau. La pièce embaume leur parfum.",
+  "questions": [
+   {
+    "question": "Dans quelle grande catégorie peut-on ranger les tulipes, les roses et les jonquilles ?",
+    "answers": [
+     "fleurs",
+     "des fleurs",
+     "plantes à fleurs",
+     "végétaux"
+    ],
+    "clues": [
+     [
+      "tulipes",
+      "roses",
+      "jonquilles"
+     ],
+     [
+      "vase",
+      "parfum"
+     ]
+    ],
+    "hints": [
+     "Observe les trois noms cités.",
+     "Ils ont un point commun : on les trouve souvent dans les jardins ou les bouquets.",
+     "Ce sont des végétaux que l’on offre en bouquet."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ce24",
+  "level": "ce2",
+  "title": "Défi élèves semaine 3",
+  "type": "Problème – solution",
+  "text": "Pendant le déjeuner, Sami renverse son verre de jus. Une grande flaque s’étale sur la table et menace les cahiers posés tout près. Il attrape rapidement quelque chose dans le tiroir de la cuisine.",
+  "questions": [
+   {
+    "question": "Que va probablement utiliser Sami pour régler le problème ?",
+    "answers": [
+     "une éponge",
+     "du papier absorbant",
+     "un torchon",
+     "une serviette",
+     "un chiffon"
+    ],
+    "clues": [
+     [
+      "flaque",
+      "sur la table"
+     ],
+     [
+      "attrape rapidement",
+      "tiroir de la cuisine"
+     ]
+    ],
+    "hints": [
+     "Quel est le problème à résoudre ?",
+     "Sami doit absorber le liquide avant qu’il n’atteigne les cahiers.",
+     "Il lui faut de quoi essuyer et absorber le jus."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ce25",
+  "level": "ce2",
+  "title": "Défi élèves semaine 4",
+  "type": "Cause – effet",
+  "text": "Le réveil n’a pas sonné. Léa ouvre les yeux et regarde l’horloge. Elle saute du lit, s’habille sans prendre son petit-déjeuner et part en courant. À l’école, la classe a déjà commencé.",
+  "questions": [
+   {
+    "question": "Quel problème a probablement rencontré Léa ce matin ?",
+    "answers": [
+     "elle est en retard",
+     "un retard",
+     "elle s’est réveillée trop tard",
+     "elle a raté son réveil"
+    ],
+    "clues": [
+     [
+      "réveil n’a pas sonné",
+      "regarde l’horloge"
+     ],
+     [
+      "sans prendre son petit-déjeuner",
+      "classe a déjà commencé"
+     ]
+    ],
+    "hints": [
+     "Observe ce qui s’est passé au réveil.",
+     "Léa part en courant et la classe a commencé.",
+     "Elle n’est pas arrivée à l’heure prévue."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cm1",
+  "level": "cm",
+  "title": "Défi enseignant test",
+  "type": "Lieu",
+  "text": "Le vent souffle fort sur les sommets. Hugo retire ses chaussures pleines de neige et les laisse près du poêle. Dans la grande salle, plusieurs randonneurs boivent une soupe chaude tandis que leurs vêtements sèchent.",
+  "questions": [
+   {
+    "question": "Dans quel type de lieu Hugo vient-il probablement d’entrer ?",
+    "answers": [
+     "un refuge",
+     "un refuge de montagne",
+     "un chalet",
+     "un gîte de montagne"
+    ],
+    "clues": [
+     [
+      "sommets",
+      "neige"
+     ],
+     [
+      "poêle",
+      "randonneurs",
+      "soupe chaude"
+     ],
+     [
+      "vêtements sèchent",
+      "grande salle"
+     ]
+    ],
+    "hints": [
+     "Relie le paysage, les randonneurs et l’accueil au chaud.",
+     "Ce lieu permet aux marcheurs de faire une pause ou de dormir en montagne.",
+     "Il s’agit d’un hébergement destiné notamment aux randonneurs."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cm2",
+  "level": "cm",
+  "title": "Défi élèves semaine 1",
+  "type": "Sentiment",
+  "text": "Lorsque son dessin est affiché au tableau, Amira baisse les yeux. Elle tire sur les manches de son pull et rougit. Pourtant, ses camarades applaudissent et la maîtresse lui adresse un grand sourire.",
+  "questions": [
+   {
+    "question": "Quel sentiment Amira éprouve-t-elle probablement ?",
+    "answers": [
+     "de la gêne",
+     "elle est gênée",
+     "de la timidité",
+     "de l’embarras",
+     "elle est intimidée"
+    ],
+    "clues": [
+     [
+      "baisse les yeux",
+      "tire sur les manches"
+     ],
+     [
+      "rougit",
+      "ses camarades applaudissent"
+     ]
+    ],
+    "hints": [
+     "Observe les réactions d’Amira, pas seulement celles des autres.",
+     "Baisser les yeux et rougir peuvent montrer qu’on n’est pas à l’aise.",
+     "Elle ressent probablement un malaise parce que l’attention est tournée vers elle."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cm3",
+  "level": "cm",
+  "title": "Défi élèves semaine 2",
+  "type": "Agent",
+  "text": "Au petit matin, le garde découvre des empreintes rondes dans la boue. Elles longent le poulailler. Quelques plumes sont éparpillées près du grillage et un passage étroit apparaît sous la clôture.",
+  "questions": [
+   {
+    "question": "Quel animal a pu s’introduire dans le poulailler ?",
+    "answers": [
+     "un renard",
+     "une fouine",
+     "un prédateur",
+     "un animal prédateur"
+    ],
+    "clues": [
+     [
+      "empreintes rondes",
+      "boue"
+     ],
+     [
+      "plumes",
+      "poulailler"
+     ],
+     [
+      "passage étroit",
+      "sous la clôture"
+     ]
+    ],
+    "hints": [
+     "Cherche les indices qui indiquent un animal venu chasser.",
+     "Les plumes et le passage sous la clôture donnent des informations.",
+     "Un petit prédateur peut se faufiler sous une clôture pour attraper une volaille."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cm4",
+  "level": "cm",
+  "title": "Défi élèves semaine 3",
+  "type": "Problème – solution",
+  "text": "La rivière a débordé pendant la nuit. Le chemin habituel vers le village est recouvert d’eau et le panneau indique « passage interdit ». Nora consulte la carte affichée près du pont, puis téléphone à son voisin qui connaît les sentiers des environs.",
+  "questions": [
+   {
+    "question": "Quelle solution Nora cherche-t-elle probablement ?",
+    "answers": [
+     "un autre chemin",
+     "un itinéraire de détour",
+     "un chemin plus sûr",
+     "un itinéraire pour contourner la zone inondée",
+     "un détour"
+    ],
+    "clues": [
+     [
+      "chemin habituel",
+      "recouvert d’eau"
+     ],
+     [
+      "passage interdit",
+      "consulte la carte"
+     ],
+     [
+      "téléphone à son voisin",
+      "connaît les sentiers"
+     ]
+    ],
+    "hints": [
+     "Quel obstacle empêche Nora de prendre son chemin habituel ?",
+     "La carte et le voisin peuvent l’aider à trouver un passage différent.",
+     "Elle cherche un itinéraire qui évite la zone inondée."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cm5",
+  "level": "cm",
+  "title": "Défi élèves semaine 4",
+  "type": "Cause – effet",
+  "text": "Depuis plusieurs jours, la lampe du bureau clignote. Ce matin, elle ne s’allume plus du tout. Paul vérifie l’interrupteur, puis remarque que le câble est abîmé près de la prise. Il débranche aussitôt la lampe.",
+  "questions": [
+   {
+    "question": "Quelle est la cause la plus probable de la panne ?",
+    "answers": [
+     "le câble est abîmé",
+     "un câble endommagé",
+     "le fil est abîmé",
+     "le câble électrique est détérioré"
+    ],
+    "clues": [
+     [
+      "clignote",
+      "ne s’allume plus"
+     ],
+     [
+      "câble est abîmé",
+      "près de la prise"
+     ],
+     [
+      "débranche aussitôt",
+      "câble est abîmé"
+     ]
+    ],
+    "hints": [
+     "La réponse se trouve dans ce que Paul remarque en vérifiant la lampe.",
+     "L’interrupteur n’est pas le seul élément d’un circuit électrique.",
+     "Le fil qui relie la lampe à la prise est endommagé."
+    ]
+   }
+  ]
+ }
+]
