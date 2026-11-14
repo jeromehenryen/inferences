@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Mission Inférences : défis de lecture pour les cycles 2 et 3.">
+<title>Mission Inférences – Défis de lecture</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><div class="brand-mark">MI</div><div><strong>Mission Inférences</strong><span>Défis de lecture · Cycles 2 et 3</span></div></div>
+  <button class="button button-quiet" id="adminOpen">Espace administrateur</button>
+</header>
+<main>
+  <section class="hero"><div class="hero-copy"><p class="eyebrow">LIRE ENTRE LES LIGNES</p><h1>Prêt·e à relever<br>une <em>mission</em> ?</h1><p>Lis attentivement, cherche les indices et comprends ce que le texte ne dit pas directement.</p></div><div class="hero-art" aria-hidden="true"><div class="art-card card-one">🔎<small>OBSERVER</small></div><div class="art-card card-two">💡<small>COMPRENDRE</small></div><div class="art-card card-three">🏆<small>RÉUSSIR</small></div></div></section>
+  <section class="group-panel" id="groupPanel"><label for="groupCode">Code de ton groupe</label><div class="inline-form"><input id="groupCode" maxlength="60" placeholder="Ex. CE2-Victor Hugo" autocomplete="off"><button class="button button-primary" id="groupSave">Valider</button></div><p class="muted">Écris le niveau de la classe, un tiret, puis le nom de l’école. Exemple : <strong>CE2-Victor Hugo</strong>. N’écris aucun nom d’élève : ce code sert seulement à suivre la progression du groupe.</p><p id="groupMessage" class="status" aria-live="polite"></p></section>
+  <section class="level-section"><div class="section-heading"><div><p class="eyebrow">CHOISIS TON PARCOURS</p><h2>Les missions</h2></div><span class="small-note">5 défis par niveau</span></div>
+    <div class="level-tabs" role="tablist" aria-label="Niveaux"><button class="level-tab active" data-level="cpce1" role="tab" aria-selected="true">CP – CE1 <small>Cycle 2</small></button><button class="level-tab" data-level="ce2" role="tab" aria-selected="false">CE2 <small>Cycle 2</small></button><button class="level-tab" data-level="cm" role="tab" aria-selected="false">CM1 – CM2 <small>Cycle 3</small></button></div>
+    <p id="loadError" class="status hidden" role="alert"></p>
+    <div id="challengeGrid" class="challenge-grid"></div>
+  </section>
+  <section class="workspace hidden" id="workspace" aria-live="polite"></section>
+  <section class="completion hidden" id="completion"></section>
+</main>
+<footer><span>Mission Inférences</span><span>Un défi pour apprendre à justifier sa compréhension.</span><span class="signature" id="creatorSignature"></span></footer>
+<div class="modal hidden" id="adminModal" role="dialog" aria-modal="true" aria-labelledby="adminTitle"><div class="modal-card admin-card"><button class="modal-close" id="adminClose" aria-label="Fermer">×</button><div id="adminContent"><p class="eyebrow">ACCÈS RÉSERVÉ</p><h2 id="adminTitle">Espace administrateur</h2><p class="muted">Saisis le mot de passe administrateur, ou coche « enseignant·e » et saisis ton code.</p><label for="adminPassword">Mot de passe</label><input type="password" id="adminPassword" autocomplete="current-password"><label class="comfort-row"><input type="checkbox" id="adminTeacherMode"> Je suis enseignant·e (accès en lecture seule : saisir mon code)</label><button class="button button-primary full" id="adminLogin">Continuer</button><p id="adminLoginMessage" class="status"></p><p class="security-note">Le mot de passe est vérifié par le serveur ; il n’est pas enregistré dans ce navigateur.</p></div></div></div>
+<button class="comfort-toggle" id="comfortToggle" type="button" aria-label="Confort de lecture">Aa</button>
+<div class="comfort-panel hidden" id="comfortPanel" role="dialog" aria-label="Confort de lecture"><strong>Confort de lecture</strong>
+  <div class="comfort-row"><span>Taille du texte</span><div><button type="button" data-size="0">A</button><button type="button" data-size="1">A+</button><button type="button" data-size="2">A++</button></div></div>
+  <label class="comfort-row"><input type="checkbox" data-pref="spaced"> Texte plus aéré</label>
+  <label class="comfort-row"><input type="checkbox" data-pref="readable"> Police très lisible</label>
+  <label class="comfort-row"><input type="checkbox" data-pref="contrast"> Contraste renforcé</label>
+  <button type="button" class="button button-quiet" id="comfortReset">Réinitialiser</button></div>
+<div id="printArea" class="print-only"></div>
+<script src="app.js"></script>
+<script src="admin.js"></script>
+</body></html>

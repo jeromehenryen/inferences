@@ -1,0 +1,8 @@
+{
+  "name": "mission-inferences",
+  "private": true,
+  "description": "Mission Inférences – défis de lecture (inférences)",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.1"
+  }
+}
